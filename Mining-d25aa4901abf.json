@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mining-221503",
+  "private_key_id": "d25aa4901abf0dd52f1055aa907a1eef94270c6d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCs1tyCMPwMEmIP\nRjdgAc1jN++UcCFI1F2kTrIO0bGFnEfFv0aUhxF16shS4lwJqxB/K6ZSQ81W3uyL\npkmvm/sqIWM21jZsHGrCixXcB0EP1vNo9nL1yiF0718hzjnaSU7cZnjtV6NvDv9Q\ny+JtivHMBelo2iy8BfoVevdm9dd0lcubv1ZqMIp+mn5zZ45r9TGZDiThR9uwAmOi\nUSkBXBs9ufUolCt/9ojso35YAmDQTYj41ZUxplRALYetsiqyh61Pc9sXZY5eQI1I\npdvsezcy6U0CWWV+MSL/tMc6ok2LrD1UdjN2Mdn5/MYnexUWVAMek87Y5mi9lKGQ\nV8HY2lCzAgMBAAECggEAStPWsZKtfDh1NbGrhagiGGN+GKCW+GXgiKL9WYcVOQgY\n1pbh4qm7OHbF9YREXnct9DCcmB78hjCK7ka2vg1kpq+/uVzyQMnouoLmmtSVKVth\nFD8mNB0ncO21HPigeU2lk6vVjMOVYR54EK3EQLKXzkF89MUH+vsHc0dCVtP2TGVb\nONLi2341ZChdih2qscruSLVfxLVadS20cd3cCCBvXFdk+ZdT0Ks9oVmW8T245ImE\nD3UTMR2TX+XgM1kD8tX4/jGcNwBaHcoxhDHG4xgE3V5zij3RAVGFbl3bLMSAVECE\nSWeRYOjOWVNo1YH6wfzEowLEfCuv6ip6zrQsLWnCiQKBgQDgJ/Zz4acqkMuKDFyM\n5TTdI+hK9+BPNpNf7eFdt1BCEIupBxI3fG5WjrQ1WUopbPp0gbo47cA9558GWUiN\n2jsE8esz7mOBi/Wp86kQMok7SijpEDHQobIdb7JMMCMiHMwfYLEpzIiZHvvh3Ppe\nTDMSS1HpSHkey5OD3rTaLF/SzQKBgQDFZKArIqJSzDOBh9j3zgiguGyFfGaOAy5h\nKAqUK4AXiLxrZQDhXS5BkuVP/TTxxpsxVDla2yE1V/DcP8RJqpUTOnBxBMkyfWLw\njkK9HqzTYDoNhUZh9EjArz5ZoiuunaZ8AVKyDGKs/au1Fc/nTgIYe1iQ80Alz5af\nKt1x8NWxfwKBgFwPjaSiNKnCthWIZipnqIJ6UNkZXMKrw3NOm5SFySyY5wMQqGap\ncBeUnGacuVyyKVrYPMdMvfuuuR0+ZhH8YujxAoxdh/iYptiZ/gFs//edyZeO0ybA\nggqc6TlpO8Sy1xK7/4cPPbrFguWMgDdiTEdjL80Dutru+TLbsKM6PlCxAoGBALRT\nDrcZNqzo+wyT67PFtsAMeqcfVBjb8xyyladybdwR//8kED/Q/hbNeUsvh5Rv2Qqh\nZJwJnza6FcE/R7P8b59XPa0hsCO9xAr6CyH1yfB38dC0Ne36WhQcg5siuUEVqCeU\nldUt118thhUxzfICo4t18xzH+4wPLgxN/mq+lplFAoGATnng9Yq+OPjTtn/jXo8j\nrChuThNgG4L0HqnEUxkuExwTe9jwmo4HYXfoYN82TiFIGkHzuS/23b4+e32bt5Xc\nUst8zU6x0q2rCaMfdAyOmOocFaugW9ygvIdN5jzMlU2SEmSa+5+Z9DXE9cNjCQeW\naScD9UdiATUSHWKh+KYNozg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "prueba-text-to-speech@mining-221503.iam.gserviceaccount.com",
+  "client_id": "106745560090949520370",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/prueba-text-to-speech%40mining-221503.iam.gserviceaccount.com"
+}
