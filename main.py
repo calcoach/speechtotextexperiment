@@ -19,7 +19,7 @@ def heardComand(comand):
 r = sr.Recognizer()
 sr.energy_threshold = True
 #this is for adjust the
-sr.dynamic_energy_adjustment_damping = 0.15ssss
+sr.dynamic_energy_adjustment_damping = 0.15
 
 with sr.Microphone() as source:
  #r.adjust_for_ambient_noise(source)
